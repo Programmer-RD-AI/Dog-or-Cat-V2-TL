@@ -1,0 +1,26 @@
+{
+    "os": "Linux-5.11.0-38-generic-x86_64-with-glibc2.10",
+    "python": "3.8.8",
+    "heartbeatAt": "2021-10-27T14:33:12.852881",
+    "startedAt": "2021-10-27T14:33:07.902743",
+    "docker": null,
+    "gpu": "GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/indika/.local/share/jupyter/runtime/kernel-cd5c54cc-685d-4b3d-b15d-6e7bc7ea4d0a.json"
+    ],
+    "state": "running",
+    "program": "00.ipynb",
+    "root": "/media/indika/Sync/Programming/Projects/Python/Artifical-Intelligence/PyTorch/CNN/Dog-or-Cat-V2-TL",
+    "git": {
+        "remote": "https://github.com/Programmer-RD-AI/Dog-or-Cat-V2-TL.git",
+        "commit": "0677e34f9acc95880ba245cb9734b1f4c06e5410"
+    },
+    "email": "aigithub@gmail.com",
+    "host": "programmer-rd-ai",
+    "username": "indika",
+    "executable": "/media/indika/Sync/anaconda3/bin/python"
+}

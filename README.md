@@ -24,3 +24,5 @@ artificial-intelligence
 transfer-learning 
 
 clf
+
+https://wandb.ai/ranuga-d/dog-or-cat
